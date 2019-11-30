@@ -11,7 +11,7 @@
   <div class="loginbox">
 		<h1>Login Form</h1>
 		<div class="formbox">
-			<form>
+			<form action="Login">
 				<p>Username</p>
 				<input type="text" name="Username" placeholder="Enter Username">
 				<p>Password</p>
